@@ -1,3 +1,3 @@
 public interface ToBeStored {
-    double weight()
+    double weight();
 }
