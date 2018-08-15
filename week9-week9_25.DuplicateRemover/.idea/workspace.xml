@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfa2cb1-7af9-46ec-99e2-d9f893d3f8de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build_errors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dictionary/PersonalMultipleEntryDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dictionary/PersonalMultipleEntryDictionary.java" afterDir="false" />
+    <list default="true" id="2a439711-eb28-49c4-8820-0322e9785967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9-week9_24.MultipleEntryDictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_24.MultipleEntryDictionary/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +13,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="245210018">
+    <session id="-473298580">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -34,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="334" />
+          <entry key="java" value="545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="334" />
+          <entry key="JAVA" value="545" />
         </counts>
       </usages-collector>
     </session>
@@ -47,15 +45,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dictionary/PersonalMultipleEntryDictionary.java">
+        <entry file="file://$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="245">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#221#242#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#174#191#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#619#627#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,7 +74,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dictionary/PersonalMultipleEntryDictionary.java" />
+        <option value="$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java" />
       </list>
     </option>
   </component>
@@ -92,35 +90,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_24.MultipleEntryDictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_24.MultipleEntryDictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
+              <item name="nbproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_24.MultipleEntryDictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534362115809" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,11 +143,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dfa2cb1-7af9-46ec-99e2-d9f893d3f8de" name="Default Changelist" comment="" />
-      <created>1534361332814</created>
+      <changelist id="2a439711-eb28-49c4-8820-0322e9785967" name="Default Changelist" comment="" />
+      <created>1534362159911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534361332814</updated>
+      <updated>1534362159911</updated>
     </task>
     <servers />
   </component>
@@ -185,15 +189,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dictionary/PersonalMultipleEntryDictionary.java">
+    <entry file="file://$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="245">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#221#242#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#174#191#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#619#627#0" expanded="true" />
           </folding>
         </state>
       </provider>
