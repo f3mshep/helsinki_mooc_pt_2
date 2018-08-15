@@ -9,6 +9,8 @@ public class Person {
 
         this.name = name;
         this.age = age;
+        if (age < 0 || age > 120) throw new IllegalArgumentException();
+        if (name == null || name.isEmpty() || name.length() > 40) throw new IllegalArgumentException();
     }
 
     public String getName() {
