@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="week10-week10_27.TheFinnishRingingCentre" type="Application" factoryName="Application">
+  <configuration default="false" name="week10-week10_28.Groups" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="Main" />
-    <module name="week10-week10_27.TheFinnishRingingCentre" />
+    <module name="week10-week10_28.Groups" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

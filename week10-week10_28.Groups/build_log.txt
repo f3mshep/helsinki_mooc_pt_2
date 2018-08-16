@@ -42,12 +42,12 @@
 init:
 
 -deps-jar-init:
-   [delete] Deleting: /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_27.TheFinnishRingingCentre/build/built-jar.properties
+   [delete] Deleting: /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_28.Groups/build/built-jar.properties
 
 deps-jar:
 
 -warn-already-built-jar:
-[propertyfile] Updating property file: /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_27.TheFinnishRingingCentre/build/built-jar.properties
+[propertyfile] Updating property file: /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_28.Groups/build/built-jar.properties
 
 -check-automatic-build:
 
@@ -64,7 +64,7 @@ deps-jar:
 -compile-depend:
 
 -do-compile:
-    [javac] Compiling 2 source files to /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_27.TheFinnishRingingCentre/build/classes
+    [javac] Compiling 1 source file to /home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART2/week10-week10_28.Groups/build/classes
     [javac] warning: [options] bootstrap class path not set in conjunction with -source 6
     [javac] warning: [options] source value 6 is obsolete and will be removed in a future release
     [javac] warning: [options] target value 1.6 is obsolete and will be removed in a future release
