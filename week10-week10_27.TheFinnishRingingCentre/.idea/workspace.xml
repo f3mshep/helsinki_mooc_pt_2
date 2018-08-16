@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a439711-eb28-49c4-8820-0322e9785967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9-week9_24.MultipleEntryDictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_24.MultipleEntryDictionary/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eb100611-bb5d-4fa5-b627-6d557502f860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RingingCentre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/logic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/logic/Phonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/ui/TextUserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9-week9_25.DuplicateRemover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_25.DuplicateRemover/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,61 +20,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-473298580">
+    <session id="-366907231">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="545" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="545" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bird.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="304">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding>
-                <element signature="e#174#191#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#619#627#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RingingCentre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -75,7 +81,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java" />
+        <option value="$PROJECT_DIR$/src/Bird.java" />
       </list>
     </option>
   </component>
@@ -85,50 +91,37 @@
     <option name="width" value="1400" />
     <option name="height" value="909" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
+              <item name="week10-week10_27.TheFinnishRingingCentre" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
-              <item name="nbproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
+              <item name="week10-week10_27.TheFinnishRingingCentre" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week9-week9_25.DuplicateRemover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="$PROJECT_DIR$" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534363273652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534444537807" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,11 +140,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a439711-eb28-49c4-8820-0322e9785967" name="Default Changelist" comment="" />
-      <created>1534362159911</created>
+      <changelist id="eb100611-bb5d-4fa5-b627-6d557502f860" name="Default Changelist" comment="" />
+      <created>1534444283022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534362159911</updated>
+      <updated>1534444283022</updated>
     </task>
     <servers />
   </component>
@@ -165,12 +158,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="TMC Test Results" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="TMC Test Results" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -193,16 +186,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tools/PersonalDuplicateRemover.java">
+    <entry file="file://$PROJECT_DIR$/src/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="304">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding>
-            <element signature="e#174#191#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#619#627#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RingingCentre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
