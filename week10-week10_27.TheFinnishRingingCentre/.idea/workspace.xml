@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb100611-bb5d-4fa5-b627-6d557502f860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RingingCentre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/logic/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/logic/Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/phonebook/ui/TextUserInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9-week9_25.DuplicateRemover/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_25.DuplicateRemover/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week9-week9_26.PhoneSearch/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RingingCentre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RingingCentre.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="550" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="550" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bird.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="114">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#650#651#0" expanded="true" />
                 <element signature="e#709#710#0" expanded="true" />
@@ -67,13 +59,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RingingCentre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#193#213#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -82,6 +85,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Bird.java" />
+        <option value="$PROJECT_DIR$/src/RingingCentre.java" />
       </list>
     </option>
   </component>
@@ -121,7 +125,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534444537807" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534445269425" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,8 +192,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="114">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#650#651#0" expanded="true" />
             <element signature="e#709#710#0" expanded="true" />
@@ -199,8 +203,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RingingCentre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#213#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
