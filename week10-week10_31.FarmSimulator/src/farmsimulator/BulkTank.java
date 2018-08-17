@@ -37,6 +37,6 @@ public class BulkTank {
 
     @Override
     public String toString() {
-        return  Math.ceil(this.volume) + "/" + this.capacity;
+        return  Math.ceil(this.volume) + "/" +  Math.ceil(this.capacity);
     }
 }

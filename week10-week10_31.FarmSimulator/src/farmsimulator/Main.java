@@ -3,14 +3,20 @@ package farmsimulator;
 public class Main {
     public static void main(String[] args) {
         // Test your program here
-        BulkTank tank = new BulkTank();
-        tank.getFromTank(100);
-        tank.addToTank(25);
-        tank.getFromTank(5);
-        System.out.println(tank);
+        Farm farm = new Farm("Esko", new Barn(new BulkTank()));
+        MilkingRobot robot = new MilkingRobot();
+        farm.installMilkingRobot(robot);
 
-        tank = new BulkTank(50);
-        tank.addToTank(100);
-        System.out.println(tank);
+        farm.addCow(new Cow());
+        farm.addCow(new Cow());
+        farm.addCow(new Cow());
+
+
+        farm.liveHour();
+        farm.liveHour();
+
+        farm.manageCows();
+
+        System.out.println(farm);
     }
 }
