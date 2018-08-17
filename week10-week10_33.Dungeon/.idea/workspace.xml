@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b85d136-8bf3-4f90-86cc-e9f517e795cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/week10_week10_33_Dungeon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dungeon/Dungeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dungeon/logic/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dungeon/logic/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dungeon/logic/Vampire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dungeon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dungeon/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dungeon/ui/TextUserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dungeon/ui/TextUserInterface.java" afterDir="false" />
-    </list>
+    <list default="true" id="3b85d136-8bf3-4f90-86cc-e9f517e795cd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +13,7 @@
     <session id="1405076667">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -254,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534536617599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534536903743" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
